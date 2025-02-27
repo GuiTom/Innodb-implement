@@ -22,7 +22,7 @@
 1. 克隆项目到本地：
 ```bash
 git clone <repository-url>
-cd SimpleInnoDB
+cd {{project-dir}}
 ```
 
 2. 运行构建脚本：
