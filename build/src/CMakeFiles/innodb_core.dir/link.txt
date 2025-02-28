@@ -1,2 +1,0 @@
-/Library/Developer/CommandLineTools/usr/bin/ar qc libinnodb_core.a CMakeFiles/innodb_core.dir/page/page.cpp.o CMakeFiles/innodb_core.dir/btree/btree.cpp.o CMakeFiles/innodb_core.dir/buffer/buffer_pool.cpp.o CMakeFiles/innodb_core.dir/table/table.cpp.o
-/Library/Developer/CommandLineTools/usr/bin/ranlib libinnodb_core.a

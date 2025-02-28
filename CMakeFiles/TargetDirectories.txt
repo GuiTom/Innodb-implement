@@ -1,6 +1,0 @@
-/Users/Zhuanz/Desktop/study/Innodb/CMakeFiles/edit_cache.dir
-/Users/Zhuanz/Desktop/study/Innodb/CMakeFiles/rebuild_cache.dir
-/Users/Zhuanz/Desktop/study/Innodb/src/CMakeFiles/innodb_core.dir
-/Users/Zhuanz/Desktop/study/Innodb/src/CMakeFiles/innodb_demo.dir
-/Users/Zhuanz/Desktop/study/Innodb/src/CMakeFiles/edit_cache.dir
-/Users/Zhuanz/Desktop/study/Innodb/src/CMakeFiles/rebuild_cache.dir
